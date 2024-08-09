@@ -1,0 +1,7 @@
+git init
+git config --global user.name "Tu Nombre"
+git config --global user.email "tuemail@example.com"
+git add .
+git commit -m "Mensaje de tu primer commit"
+git remote add origin <URL-del-repositorio>
+  git push -u origin master
